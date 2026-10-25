@@ -1,0 +1,6 @@
+.env
+proxies.txt
+blacklist.json
+backups/
+__pycache__/
+*.pyc
